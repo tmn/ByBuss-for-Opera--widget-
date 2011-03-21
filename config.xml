@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<widget dockable="true" network="public">
+	<widgetname>ByBuss</widgetname>
+	<description>Finn ut når bussen går i Trondheim ved å spørre Bussorakelet.</description>
+	<width>350</width>
+	<height>250</height>
+	<author>
+		<name>Tri M. Nguyen</name>
+		<email>mail@trimn.net</email>
+		<link>http://my.opera.com/trimn/</link>
+	</author>
+	<icon>images/icon.png</icon>
+	<id>
+		<host>my.opera.com</host>
+		<name>TriMN</name>
+		<revised>2011-02</revised>
+	</id>
+	
+</widget>
